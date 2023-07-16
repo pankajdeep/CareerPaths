@@ -4,4 +4,5 @@
 #Except
 !index.js
 !.gitignore
-!model/
+!model/*
+!config/*
